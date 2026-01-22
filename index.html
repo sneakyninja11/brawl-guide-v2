@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Brawl Stars Ranked Draft Guide</title>
+  <meta name="color-scheme" content="dark light">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="header">
+    <div class="header__inner">
+      <div class="title">
+        <h1>Brawl Stars Ranked Draft Guide</h1>
+        <p class="sub">
+          Browse comps, bans, substitutes, and win plans by mode/map.
+          Update the guide by editing <code>data.json</code>.
+        </p>
+      </div>
+
+      <div class="controls">
+        <label class="control">
+          <span>Mode</span>
+          <select id="modeSelect" aria-label="Mode"></select>
+        </label>
+
+        <label class="control">
+          <span>Map</span>
+          <select id="mapSelect" aria-label="Map"></select>
+        </label>
+
+        <label class="control control--search">
+          <span>Search</span>
+          <input id="searchInput" type="search" placeholder="Search brawler, ban, note…" />
+        </label>
+
+        <button id="resetBtn" class="btn" type="button">Reset</button>
+      </div>
+    </div>
+  </header>
+
+  <main class="main">
+    <div class="status" id="status"></div>
+    <section id="results" class="results"></section>
+  </main>
+
+  <footer class="footer">
+    <p>
+      Local run: VS Code Live Server, or <code>python -m http.server</code>.
+      Deploy: GitHub Pages (main / root).
+    </p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
