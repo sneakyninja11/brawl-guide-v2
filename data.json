@@ -1,0 +1,794 @@
+[
+  {
+    "mode": "Gem Grab",
+    "map": "Undermine",
+    "primary_comp": [
+      "Joaquin: Gene (mid pull / gems)",
+      "Steven: Emz (lane control)",
+      "3rd: Spike (lane DPS)"
+    ],
+    "backup_comps": [
+      [
+        "Joaquin: Crow (mid pressure)",
+        "Steven: Spike (lane)",
+        "3rd: Stu (cleanup / tempo)"
+      ],
+      [
+        "Joaquin: Sandy (mid teamfight)",
+        "Steven: Penny (lane splash)",
+        "3rd: Leon (threat / pinch)"
+      ]
+    ],
+    "bans": [
+      "Emz",
+      "Spike",
+      "Mortis"
+    ],
+    "substitutes": [
+      "If Gene banned \u2192 Joaquin: Ruffs or Byron (mid support/poke)",
+      "If Emz banned \u2192 Steven: Gale or Larry & Lawrie (control)",
+      "If Spike banned \u2192 3rd: Bonnie or Rico (DPS)"
+    ],
+    "win_plan": "Win mid first, then play 2-1 spacing. Don\u2019t over-chase; protect gem carrier and take fights only on advantage.",
+    "notes": ""
+  },
+  {
+    "mode": "Gem Grab",
+    "map": "Hard Rock Mine",
+    "primary_comp": [
+      "Joaquin: Gene (mid)",
+      "Steven: Emz (lane)",
+      "3rd: Crow (lane poke / anti-heal)"
+    ],
+    "backup_comps": [
+      [
+        "Joaquin: Sandy (mid)",
+        "Steven: Penny (lane)",
+        "3rd: Spike (lane)"
+      ],
+      [
+        "Joaquin: Ruffs (mid buffs)",
+        "Steven: Spike (lane)",
+        "3rd: Stu (lane/cleanup)"
+      ]
+    ],
+    "bans": [
+      "Emz",
+      "Gene",
+      "Spike"
+    ],
+    "substitutes": [
+      "If Gene banned \u2192 Joaquin: Ruffs / Byron",
+      "If Emz banned \u2192 Steven: Gale / L&L",
+      "If Crow banned \u2192 3rd: Spike / Bonnie"
+    ],
+    "win_plan": "Hold the center choke, win gem swings with pulls/anti-heal, and back up once you hit 8+ gems.",
+    "notes": ""
+  },
+  {
+    "mode": "Gem Grab",
+    "map": "Double Swoosh",
+    "primary_comp": [
+      "Joaquin: Sandy (mid teamfight)",
+      "Steven: Spike (left lane)",
+      "3rd: Crow (right lane)"
+    ],
+    "backup_comps": [
+      [
+        "Joaquin: Gene (mid)",
+        "Steven: Emz (lane)",
+        "3rd: Leon (flank threat)"
+      ],
+      [
+        "Joaquin: Ruffs (mid)",
+        "Steven: Spike (lane)",
+        "3rd: Cordelius (deny carry)"
+      ]
+    ],
+    "bans": [
+      "Sandy",
+      "Spike",
+      "Crow"
+    ],
+    "substitutes": [
+      "If Sandy banned \u2192 Joaquin: Gene (pick) or Ruffs (support)",
+      "If Spike banned \u2192 Steven: Bonnie / Rico",
+      "If Crow banned \u2192 3rd: Leon / Cordelius"
+    ],
+    "win_plan": "Play for bush control and pinch angles. Win one lane hard, then collapse mid for gems.",
+    "notes": ""
+  },
+  {
+    "mode": "Gem Grab",
+    "map": "Gem Fort",
+    "primary_comp": [
+      "Joaquin: Gene (mid)",
+      "Steven: Emz (lane)",
+      "3rd: Spike (lane)"
+    ],
+    "backup_comps": [
+      [
+        "Joaquin: Sandy (mid)",
+        "Steven: Penny (lane)",
+        "3rd: Crow (lane)"
+      ],
+      [
+        "Joaquin: Ruffs (mid)",
+        "Steven: Spike (lane)",
+        "3rd: Stu (lane)"
+      ]
+    ],
+    "bans": [
+      "Emz",
+      "Gene",
+      "Spike"
+    ],
+    "substitutes": [
+      "If Gene banned \u2192 Joaquin: Byron / Ruffs",
+      "If Emz banned \u2192 Steven: Gale / L&L",
+      "If Spike banned \u2192 3rd: Bonnie / Rico"
+    ],
+    "win_plan": "Control the center, rotate to support the pressured lane, and hold supers for the last 10 seconds when countdown starts.",
+    "notes": ""
+  },
+  {
+    "mode": "Brawl Ball",
+    "map": "Sneaky Fields",
+    "primary_comp": [
+      "Joaquin: Buzz (engage / goal threat)",
+      "Steven: Emz (anti-dive control)",
+      "3rd: Stu (ball carrier/cleanup)"
+    ],
+    "backup_comps": [
+      [
+        "Joaquin: Bibi (speed/goal threat)",
+        "Steven: Spike (DPS)",
+        "3rd: Leon (assassin)"
+      ],
+      [
+        "Joaquin: Frank (anchor)",
+        "Steven: Gale (peel)",
+        "3rd: Crow (poke)"
+      ]
+    ],
+    "bans": [
+      "Emz",
+      "Buzz",
+      "Stu"
+    ],
+    "substitutes": [
+      "If Buzz banned \u2192 Joaquin: Bibi / Frank",
+      "If Emz banned \u2192 Steven: Gale / L&L",
+      "If Stu banned \u2192 3rd: Leon / Crow"
+    ],
+    "win_plan": "Win first mid fight, then score off stagger kills. Use wall breaks to open scoring lanes; don\u2019t force dribbles into 3 defenders.",
+    "notes": ""
+  },
+  {
+    "mode": "Brawl Ball",
+    "map": "Backyard Bowl",
+    "primary_comp": [
+      "Joaquin: Gene (mid control)",
+      "Steven: Emz (lane)",
+      "3rd: Stu (lane/ball)"
+    ],
+    "backup_comps": [
+      [
+        "Joaquin: Crow (pressure)",
+        "Steven: Spike (DPS)",
+        "3rd: Leon (threat)"
+      ],
+      [
+        "Joaquin: Gale (peel)",
+        "Steven: Penny (lane)",
+        "3rd: Buzz (engage)"
+      ]
+    ],
+    "bans": [
+      "Emz",
+      "Stu",
+      "Gene"
+    ],
+    "substitutes": [
+      "If Gene banned \u2192 Joaquin: Ruffs / Byron",
+      "If Emz banned \u2192 Steven: Gale / L&L",
+      "If Stu banned \u2192 3rd: Buzz / Leon"
+    ],
+    "win_plan": "Play spread formation, pinch the carrier, and score after you win a numbers advantage. Save a defensive super for last-second stops.",
+    "notes": ""
+  },
+  {
+    "mode": "Brawl Ball",
+    "map": "Center Stage",
+    "primary_comp": [
+      "Joaquin: Frank (anchor/goal threat)",
+      "Steven: Emz (zone denial)",
+      "3rd: Doug (sustain enable)"
+    ],
+    "backup_comps": [
+      [
+        "Joaquin: Gale (anti-dive)",
+        "Steven: Emz (control)",
+        "3rd: Cordelius (deny carry)"
+      ],
+      [
+        "Joaquin: Bibi (tempo)",
+        "Steven: Spike (DPS)",
+        "3rd: Stu (cleanup)"
+      ]
+    ],
+    "bans": [
+      "Frank",
+      "Emz",
+      "Doug"
+    ],
+    "substitutes": [
+      "If Frank banned \u2192 Joaquin: Bibi / Buzz",
+      "If Doug banned \u2192 3rd: (if available) Poco-style sustain; otherwise Crow for pressure",
+      "If Emz banned \u2192 Steven: Gale / L&L"
+    ],
+    "win_plan": "Play for wipe\u2192goal cycles. Don\u2019t walk ball into 3. Use supers to secure a 3v2 then score immediately.",
+    "notes": ""
+  },
+  {
+    "mode": "Brawl Ball",
+    "map": "Triple Dribble",
+    "primary_comp": [
+      "Joaquin: Buzz (engage)",
+      "Steven: Emz (control)",
+      "3rd: Stu (tempo)"
+    ],
+    "backup_comps": [
+      [
+        "Joaquin: Gene (pick)",
+        "Steven: Spike (DPS)",
+        "3rd: Leon (threat)"
+      ],
+      [
+        "Joaquin: Gale (peel)",
+        "Steven: Penny (lane)",
+        "3rd: Crow (poke)"
+      ]
+    ],
+    "bans": [
+      "Buzz",
+      "Emz",
+      "Stu"
+    ],
+    "substitutes": [
+      "If Buzz banned \u2192 Joaquin: Bibi / Frank",
+      "If Emz banned \u2192 Steven: Gale / L&L",
+      "If Stu banned \u2192 3rd: Leon / Crow"
+    ],
+    "win_plan": "Break key walls when ahead; keep one player back when pushing. Force stagger kills then chain a quick goal.",
+    "notes": ""
+  },
+  {
+    "mode": "Bounty",
+    "map": "Shooting Star",
+    "primary_comp": [
+      "Joaquin: Piper (long-range carry)",
+      "Steven: Nani (one-shot threat)",
+      "3rd: Gene (pull picks)"
+    ],
+    "backup_comps": [
+      [
+        "Joaquin: Nani",
+        "Steven: Piper",
+        "3rd: Crow (anti-heal poke)"
+      ],
+      [
+        "Joaquin: Piper",
+        "Steven: Brock-style sniper (if available)",
+        "3rd: Leon (assassin to finish)"
+      ]
+    ],
+    "bans": [
+      "Piper",
+      "Nani",
+      "Gene"
+    ],
+    "substitutes": [
+      "If Piper banned \u2192 Joaquin: Nani / (another sniper you have)",
+      "If Nani banned \u2192 Steven: Piper / (another sniper)",
+      "If Gene banned \u2192 3rd: Crow / Leon (play for poke + finish)"
+    ],
+    "win_plan": "Play slow, farm stars with safe poke, and only commit after you get a hit advantage. Protect your carry; don\u2019t donate a shutdown.",
+    "notes": ""
+  },
+  {
+    "mode": "Bounty",
+    "map": "Layer Cake",
+    "primary_comp": [
+      "Joaquin: Piper",
+      "Steven: Gene",
+      "3rd: Crow"
+    ],
+    "backup_comps": [
+      [
+        "Joaquin: Nani",
+        "Steven: Piper",
+        "3rd: Leon"
+      ],
+      [
+        "Joaquin: Gene",
+        "Steven: Nani",
+        "3rd: Crow"
+      ]
+    ],
+    "bans": [
+      "Piper",
+      "Gene",
+      "Nani"
+    ],
+    "substitutes": [
+      "If Gene banned \u2192 Steven: Crow/Leon as finisher",
+      "If Piper banned \u2192 Joaquin: Nani / alternate sniper",
+      "If Crow banned \u2192 3rd: Leon / Cordelius"
+    ],
+    "win_plan": "Hold lanes, use pulls to secure kills, then back up and deny trades. Win by star lead, not by teamwiping.",
+    "notes": ""
+  },
+  {
+    "mode": "Bounty",
+    "map": "Hideout",
+    "primary_comp": [
+      "Joaquin: Piper",
+      "Steven: Gene",
+      "3rd: Nani"
+    ],
+    "backup_comps": [
+      [
+        "Joaquin: Nani",
+        "Steven: Piper",
+        "3rd: Crow"
+      ],
+      [
+        "Joaquin: Piper",
+        "Steven: Nani",
+        "3rd: Leon"
+      ]
+    ],
+    "bans": [
+      "Piper",
+      "Nani",
+      "Gene"
+    ],
+    "substitutes": [
+      "If Piper banned \u2192 Joaquin: Nani",
+      "If Gene banned \u2192 Steven/3rd: Crow + Leon for pickoffs",
+      "If Nani banned \u2192 Steven: Piper"
+    ],
+    "win_plan": "Use sightlines, don\u2019t peek alone, and rotate after every hit. Secure one kill then disengage to preserve lead.",
+    "notes": ""
+  },
+  {
+    "mode": "Bounty",
+    "map": "Dry Season",
+    "primary_comp": [
+      "Joaquin: Gene",
+      "Steven: Piper",
+      "3rd: Crow"
+    ],
+    "backup_comps": [
+      [
+        "Joaquin: Piper",
+        "Steven: Nani",
+        "3rd: Leon"
+      ],
+      [
+        "Joaquin: Nani",
+        "Steven: Gene",
+        "3rd: Crow"
+      ]
+    ],
+    "bans": [
+      "Piper",
+      "Gene",
+      "Nani"
+    ],
+    "substitutes": [
+      "If Gene banned \u2192 Joaquin: Crow/Leon (play poke+finish)",
+      "If Piper banned \u2192 Steven: Nani / alt sniper",
+      "If Crow banned \u2192 3rd: Leon"
+    ],
+    "win_plan": "Play for angles around mid, pinch when someone is weak, then reset. Avoid feeding when ahead.",
+    "notes": ""
+  },
+  {
+    "mode": "Heist",
+    "map": "Safe Zone",
+    "primary_comp": [
+      "Joaquin: Chuck (safe rush lanes)",
+      "Steven: Colt (wall break + DPS)",
+      "3rd: Spike (defense + chip)"
+    ],
+    "backup_comps": [
+      [
+        "Joaquin: Chuck",
+        "Steven: 8-Bit (damage boost)",
+        "3rd: Rico (lane control)"
+      ],
+      [
+        "Joaquin: Colt",
+        "Steven: Spike",
+        "3rd: Crow (pressure/anti-heal)"
+      ]
+    ],
+    "bans": [
+      "Chuck",
+      "Colt",
+      "8-Bit"
+    ],
+    "substitutes": [
+      "If Chuck banned \u2192 Joaquin: Colt/8-Bit (play standard DPS)",
+      "If Colt banned \u2192 Steven: 8-Bit / Rico",
+      "If Spike banned \u2192 3rd: Rico / Bonnie"
+    ],
+    "win_plan": "Win by creating one open lane to the safe. Break walls early, then cycle supers to keep constant DPS pressure.",
+    "notes": ""
+  },
+  {
+    "mode": "Heist",
+    "map": "Hot Potato",
+    "primary_comp": [
+      "Joaquin: Chuck",
+      "Steven: Colt",
+      "3rd: Rico"
+    ],
+    "backup_comps": [
+      [
+        "Joaquin: Colt",
+        "Steven: 8-Bit",
+        "3rd: Spike"
+      ],
+      [
+        "Joaquin: Chuck",
+        "Steven: Rico",
+        "3rd: Crow"
+      ]
+    ],
+    "bans": [
+      "Chuck",
+      "Colt",
+      "Rico"
+    ],
+    "substitutes": [
+      "If Chuck banned \u2192 Joaquin: Colt/8-Bit",
+      "If Rico banned \u2192 3rd: Spike / Bonnie",
+      "If Colt banned \u2192 Steven: 8-Bit"
+    ],
+    "win_plan": "Defend first, then counterpush with 2 players while 1 anchors defense. Don\u2019t all-in if your safe is low.",
+    "notes": ""
+  },
+  {
+    "mode": "Heist",
+    "map": "Kaboom Canyon",
+    "primary_comp": [
+      "Joaquin: Chuck",
+      "Steven: Colt",
+      "3rd: Spike"
+    ],
+    "backup_comps": [
+      [
+        "Joaquin: Colt",
+        "Steven: Rico",
+        "3rd: 8-Bit"
+      ],
+      [
+        "Joaquin: Chuck",
+        "Steven: 8-Bit",
+        "3rd: Crow"
+      ]
+    ],
+    "bans": [
+      "Chuck",
+      "Colt",
+      "Spike"
+    ],
+    "substitutes": [
+      "If Chuck banned \u2192 Joaquin: Colt/8-Bit",
+      "If Colt banned \u2192 Steven: Rico/8-Bit",
+      "If Spike banned \u2192 3rd: Rico/Bonnie"
+    ],
+    "win_plan": "Open the map with wall breaks, then send one dedicated DPS to the safe while the other two win mid control.",
+    "notes": ""
+  },
+  {
+    "mode": "Heist",
+    "map": "Bridge Too Far",
+    "primary_comp": [
+      "Joaquin: Chuck",
+      "Steven: Colt",
+      "3rd: Rico"
+    ],
+    "backup_comps": [
+      [
+        "Joaquin: Colt",
+        "Steven: 8-Bit",
+        "3rd: Spike"
+      ],
+      [
+        "Joaquin: Chuck",
+        "Steven: Rico",
+        "3rd: Crow"
+      ]
+    ],
+    "bans": [
+      "Chuck",
+      "Colt",
+      "Rico"
+    ],
+    "substitutes": [
+      "If Chuck banned \u2192 Joaquin: Colt/8-Bit",
+      "If Rico banned \u2192 3rd: Spike",
+      "If Colt banned \u2192 Steven: 8-Bit"
+    ],
+    "win_plan": "Control mid bridge, deny enemy lanes, then time your push when you get a pick so you can hit safe uncontested.",
+    "notes": ""
+  },
+  {
+    "mode": "Knockout",
+    "map": "Belles Rock",
+    "primary_comp": [
+      "Joaquin: Gene (pick)",
+      "Steven: Piper (carry)",
+      "3rd: Crow (chip/anti-heal)"
+    ],
+    "backup_comps": [
+      [
+        "Joaquin: Leon (assassin)",
+        "Steven: Piper",
+        "3rd: Gene"
+      ],
+      [
+        "Joaquin: Cordelius (deny carry)",
+        "Steven: Piper",
+        "3rd: Crow"
+      ]
+    ],
+    "bans": [
+      "Piper",
+      "Gene",
+      "Leon"
+    ],
+    "substitutes": [
+      "If Piper banned \u2192 Steven: Nani / (alt sniper)",
+      "If Gene banned \u2192 Joaquin: Crow/Leon (play for picks)",
+      "If Crow banned \u2192 3rd: Leon/Cordelius"
+    ],
+    "win_plan": "Play patient: win space first, then take one clean kill and collapse 3v2. Save gadgets/supers for the round-deciding fight.",
+    "notes": ""
+  },
+  {
+    "mode": "Knockout",
+    "map": "Out in the Open",
+    "primary_comp": [
+      "Joaquin: Piper",
+      "Steven: Nani",
+      "3rd: Gene"
+    ],
+    "backup_comps": [
+      [
+        "Joaquin: Nani",
+        "Steven: Piper",
+        "3rd: Crow"
+      ],
+      [
+        "Joaquin: Piper",
+        "Steven: Gene",
+        "3rd: Leon"
+      ]
+    ],
+    "bans": [
+      "Piper",
+      "Nani",
+      "Gene"
+    ],
+    "substitutes": [
+      "If Piper banned \u2192 Joaquin: Nani",
+      "If Nani banned \u2192 Steven: Piper",
+      "If Gene banned \u2192 3rd: Crow/Leon"
+    ],
+    "win_plan": "Hard scout angles, don\u2019t overpeek. Get first hit advantage then force a retreat and take map control.",
+    "notes": ""
+  },
+  {
+    "mode": "Knockout",
+    "map": "Flaring Phoenix",
+    "primary_comp": [
+      "Joaquin: Gene",
+      "Steven: Spike",
+      "3rd: Leon"
+    ],
+    "backup_comps": [
+      [
+        "Joaquin: Cordelius",
+        "Steven: Spike",
+        "3rd: Crow"
+      ],
+      [
+        "Joaquin: Gene",
+        "Steven: Piper",
+        "3rd: Crow"
+      ]
+    ],
+    "bans": [
+      "Gene",
+      "Leon",
+      "Spike"
+    ],
+    "substitutes": [
+      "If Gene banned \u2192 Joaquin: Cordelius / Crow",
+      "If Spike banned \u2192 Steven: Bonnie / Rico",
+      "If Leon banned \u2192 3rd: Crow / Cordelius"
+    ],
+    "win_plan": "Use bushes for surprise angles. Take one pick, then pinch remaining enemies from two sides.",
+    "notes": ""
+  },
+  {
+    "mode": "Knockout",
+    "map": "New Horizons",
+    "primary_comp": [
+      "Joaquin: Piper",
+      "Steven: Gene",
+      "3rd: Crow"
+    ],
+    "backup_comps": [
+      [
+        "Joaquin: Nani",
+        "Steven: Piper",
+        "3rd: Leon"
+      ],
+      [
+        "Joaquin: Gene",
+        "Steven: Spike",
+        "3rd: Leon"
+      ]
+    ],
+    "bans": [
+      "Piper",
+      "Gene",
+      "Nani"
+    ],
+    "substitutes": [
+      "If Piper banned \u2192 Joaquin: Nani",
+      "If Gene banned \u2192 Steven/3rd: Crow + Leon",
+      "If Nani banned \u2192 Steven: Piper"
+    ],
+    "win_plan": "Control the open lanes and keep your team\u2019s sightline advantage; don\u2019t fight stacked. Win 1v1s then collapse.",
+    "notes": ""
+  },
+  {
+    "mode": "Hot Zone",
+    "map": "Dueling Beetles",
+    "primary_comp": [
+      "Joaquin: Bo (vision/control)",
+      "Steven: Emz (zone denial)",
+      "3rd: Crow (poke/anti-heal)"
+    ],
+    "backup_comps": [
+      [
+        "Joaquin: Sandy (teamfight)",
+        "Steven: Penny (control)",
+        "3rd: Cordelius (deny carry)"
+      ],
+      [
+        "Joaquin: Gene (pick)",
+        "Steven: Spike (shred)",
+        "3rd: Leon (assassin)"
+      ]
+    ],
+    "bans": [
+      "Emz",
+      "Bo",
+      "Crow"
+    ],
+    "substitutes": [
+      "If Emz banned \u2192 Steven: Gale or Larry & Lawrie",
+      "If Bo banned \u2192 Joaquin: Penny or Lou (control)",
+      "If Crow banned \u2192 3rd: Spike or Byron"
+    ],
+    "win_plan": "Anchor entrances, keep 1\u20132 bodies on zone, and win retakes with supers. When ahead, stop chasing and hold choke points.",
+    "notes": ""
+  },
+  {
+    "mode": "Hot Zone",
+    "map": "Parallel Plays",
+    "primary_comp": [
+      "Joaquin: Bo",
+      "Steven: Emz",
+      "3rd: Spike"
+    ],
+    "backup_comps": [
+      [
+        "Joaquin: Sandy",
+        "Steven: Penny",
+        "3rd: Crow"
+      ],
+      [
+        "Joaquin: Gene",
+        "Steven: Spike",
+        "3rd: Cordelius"
+      ]
+    ],
+    "bans": [
+      "Emz",
+      "Bo",
+      "Spike"
+    ],
+    "substitutes": [
+      "If Emz banned \u2192 Steven: Gale/L&L",
+      "If Bo banned \u2192 Joaquin: Penny/Lou",
+      "If Spike banned \u2192 3rd: Crow/Bonnie"
+    ],
+    "win_plan": "Win one lane, then rotate to double-stack the zone only when safe. Use supers to secure stagger kills and prevent full retakes.",
+    "notes": ""
+  },
+  {
+    "mode": "Hot Zone",
+    "map": "Open Zone",
+    "primary_comp": [
+      "Joaquin: Bo",
+      "Steven: Emz",
+      "3rd: Crow"
+    ],
+    "backup_comps": [
+      [
+        "Joaquin: Gene",
+        "Steven: Spike",
+        "3rd: Leon"
+      ],
+      [
+        "Joaquin: Sandy",
+        "Steven: Penny",
+        "3rd: Cordelius"
+      ]
+    ],
+    "bans": [
+      "Emz",
+      "Crow",
+      "Bo"
+    ],
+    "substitutes": [
+      "If Emz banned \u2192 Steven: Gale/L&L",
+      "If Crow banned \u2192 3rd: Spike/Leon",
+      "If Bo banned \u2192 Joaquin: Penny/Lou"
+    ],
+    "win_plan": "Because it\u2019s open, play farther back and farm poke first; step into zone only after you\u2019ve forced them off angles.",
+    "notes": ""
+  },
+  {
+    "mode": "Hot Zone",
+    "map": "Ring of Fire",
+    "primary_comp": [
+      "Joaquin: Bo (vision/control)",
+      "Steven: Emz (zone denial)",
+      "3rd: Crow (poke/anti-heal)"
+    ],
+    "backup_comps": [
+      [
+        "Joaquin: Sandy (teamfight)",
+        "Steven: Penny (control)",
+        "3rd: Cordelius (deny carry)"
+      ],
+      [
+        "Joaquin: Gene (pick)",
+        "Steven: Spike (shred)",
+        "3rd: Leon (assassin)"
+      ]
+    ],
+    "bans": [
+      "Emz",
+      "Bo",
+      "Crow"
+    ],
+    "substitutes": [
+      "If Emz banned \u2192 Steven: Gale or Larry & Lawrie",
+      "If Bo banned \u2192 Joaquin: Penny or Lou (control)",
+      "If Crow banned \u2192 3rd: Spike or Byron"
+    ],
+    "win_plan": "Hold the ring rim, never stack 3 on zone, and rotate as a unit for retakes. When ahead, hold entrances and force them to walk into AoE.",
+    "notes": ""
+  }
+]
